@@ -1,0 +1,85 @@
+# CodeBot Knowledge Base
+# Format: pattern|response
+
+hello|Hello! How can I help you today?
+hi|Hi there! What's on your mind?
+good morning|Good morning! Hope you're having a great day!
+good afternoon|Good afternoon! How's your day going?
+good evening|Good evening! How can I assist you?
+how are you|I'm doing well, thank you for asking! How about you?
+what is your name|I'm CodeBot, an AI assistant created for the CodeAlpha project!
+who are you|I'm CodeBot, your friendly AI chatbot built with Java and NLP techniques.
+what can you do|I can chat with you, answer questions, analyze sentiment, learn from conversations, and much more!
+
+# Technology responses
+java|Java is an amazing programming language! It's object-oriented, platform-independent, and great for enterprise applications.
+programming|Programming is like solving puzzles with code! It's creative, logical, and incredibly rewarding.
+artificial intelligence|AI is fascinating! I'm a simple example using NLP and machine learning concepts.
+machine learning|Machine learning allows systems to learn and improve from data without explicit programming.
+nlp|Natural Language Processing helps computers understand and work with human language, just like I'm doing now!
+codealpha|CodeAlpha provides excellent internship opportunities in programming and software development!
+
+# Educational responses
+study|Learning is a lifelong journey! Consistency and practice are key to mastering any subject.
+school|Education opens doors to endless possibilities! What subject interests you most?
+university|Higher education provides great opportunities to dive deep into your passions.
+learn|I love learning too! Every conversation teaches me something new about human communication.
+
+# Personal responses
+thank you|You're very welcome! I'm happy to help anytime.
+thanks|No problem at all! That's what I'm here for.
+sorry|No need to apologize! We're just having a conversation.
+awesome|That's great to hear! I love your enthusiasm!
+cool|Definitely! There's so much interesting stuff to explore.
+
+# Fun responses
+joke|Why don't scientists trust atoms? Because they make up everything!
+funny|I try to keep things light and entertaining! Laughter makes everything better.
+boring|Oh no! Let me try to make our conversation more interesting. What topics excite you?
+
+# Help responses
+help|I'm here to assist! Ask me about technology, education, or just have a casual chat.
+confused|No worries! Feel free to ask me to explain anything in a different way.
+understand|I'm doing my best to understand you! If I miss something, just let me know.
+
+# Time responses
+time|Let me check the current time for you!
+date|I can tell you about dates and time-related information.
+today|Today is a great day to learn something new or have an interesting conversation!
+
+# Farewell responses
+bye|Goodbye! It was wonderful chatting with you!
+goodbye|Farewell! Hope to talk with you again soon!
+see you|See you later! Have a fantastic day!
+take care|You take care too! Thanks for the great conversation!
+good night|Good night! Sweet dreams and see you next time!
+
+# Weather (limited)
+weather|I wish I could give you weather updates, but I don't have access to current weather data. Try a weather app!
+rain|I can't check current weather conditions, but I hope you're staying dry if it's raining!
+sunny|Sunshine always brightens the day! Though I can't check current weather for you.
+
+# Emotions and feelings
+happy|That's wonderful! Happiness is contagious, and your positive energy brightens our conversation.
+sad|I'm sorry you're feeling down. Sometimes talking helps. I'm here to listen.
+excited|Your excitement is infectious! What's got you so enthusiastic?
+worried|It's natural to feel worried sometimes. Would you like to talk about what's concerning you?
+angry|I understand you might be frustrated. Take a deep breath, and let's work through this together.
+
+# Compliments
+smart|Thank you! I try to be as helpful and informative as possible.
+helpful|I'm glad I could help! That's exactly what I'm designed to do.
+amazing|You're too kind! I'm just doing what I love - chatting and helping people.
+great job|Thank you for the encouragement! It means a lot.
+
+# Questions about the bot
+how do you work|I use Java programming with NLP techniques to understand your messages and generate appropriate responses.
+are you real|I'm a real AI program, but I don't have consciousness like humans. I'm here to chat and assist though!
+do you learn|Yes! I learn from our conversations by analyzing patterns and improving my responses over time.
+are you intelligent|I have artificial intelligence that helps me understand and respond to you, but it's different from human intelligence.
+
+# Default fallbacks for common patterns
+tell me about|I'd love to tell you more! What specific aspect would you like to know about?
+explain|I'll do my best to explain! Could you be more specific about what you'd like me to clarify?
+what do you think|That's a thoughtful question! I think it depends on various factors. What's your perspective?
+opinion|I can share information and different viewpoints, though as an AI, my 'opinions' are based on patterns in
